@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of some papers lately passed betwixt the Lord Fairfax on the one side and the Earle of Norwich, Lord Capel, and Sir Charles Lucas, on the other, at Colchester.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80522</idno>
+            <idno type="STC">Wing C6198A</idno>
+            <idno type="STC">ESTC R232721</idno>
+            <idno type="EEBO-CITATION">99900227</idno>
+            <idno type="PROQUEST">99900227</idno>
+            <idno type="VID">171075</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80522)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171075)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2553:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of some papers lately passed betwixt the Lord Fairfax on the one side and the Earle of Norwich, Lord Capel, and Sir Charles Lucas, on the other, at Colchester.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lucas, Charles, --  Sir, 1613-1648 --  Early works to 1800.</term>
+               <term>Norwich, George Goring, --  Earl of, 1583?-1663 --  Early works to 1800.</term>
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term>Capel of Hadham, Arthur Capel, --  Baron, 1610?-1649 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171075:1" rendition="simple:additions"/>
+            <p>A COPY OF SOME PAPERS Lately paſſed betwixt The Lord FAIRFAX on the one ſide, AND The Earle of <hi>Norwich,</hi> Lord <hi>Capel,</hi> and Sir <hi>Charles Lucas,</hi> on the other, at <hi>COLCHESTER.</hi>
+            </p>
+            <p>Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171075:2"/>
+            <pb n="1" facs="tcp:171075:2"/>
+            <head>19. <hi>Junii,</hi> 1648.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Committee of Parliament (now under Reſtraint at <hi>Colcheſter</hi>) upon their humble requeſt for it to the L<hi rend="sup">d</hi> 
+               <hi>Norwich,</hi> L<hi rend="sup">d</hi> 
+               <hi>Capell,</hi> and Sir <hi>Charles Lucas,</hi> have obtained leave of them that they the ſaid Committee may make it their humble propoſall to the L<hi rend="sup">d</hi> 
+               <hi>Fairfax,</hi> that there may be a Treaty between both Armies for a Peace,</p>
+            <list>
+               <item>
+                  <hi>W. Row.</hi>
+               </item>
+               <item>
+                  <hi>Tho: Ayloff.</hi>
+               </item>
+               <item>
+                  <hi>Ro: Smyth.</hi>
+               </item>
+               <item>
+                  <hi>Sam: Sheffeild.</hi>
+               </item>
+               <item>
+                  <hi>Will: Maſham.</hi>
+               </item>
+               <item>
+                  <hi>T. Middleton.</hi>
+               </item>
+               <item>
+                  <hi>Io: Eden.</hi>
+               </item>
+               <item>
+                  <hi>Io: Langley.</hi>
+               </item>
+               <item>
+                  <hi>Io: Barnardiſton.</hi>
+               </item>
+               <item>
+                  <hi>Rob: Crane.</hi>
+               </item>
+            </list>
+            <p>IT is the generall Peace of the Kingdome we contend for, and therefore we are content that the Committee ſhall ſend their above-written Propoſall to the L<hi rend="sup">d</hi> 
+               <hi>Fair<g ref="char:EOLhyphen"/>fax,</hi> according unto their requeſt made unto us,</p>
+            <closer>
+               <signed>Norwich. Arthur Capell. Charles Lucas.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="2" facs="tcp:171075:3"/>
+            <head>To the Earle of <hi>Norwich,</hi> Lord <hi>Capell,</hi> and Sir <hi>Charles Lucas.</hi>
+            </head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>THe Paper ſent to me incloſed in the Letter from your Lordſhips and Sir <hi>Charles Lucas</hi> of the 19. inſtant, ſeems in the firſt part of it ſo drawn as that I could not well underſtand it, what kind of Treaty, or for what Peace it meant: But the latter part under-written by your Lordſhips, and Sir <hi>Charles Lucas,</hi> ſeems to explain your own meaning, ſo as you meant a Treaty betwixt the Armies for the generall peace of the King<g ref="char:EOLhyphen"/>dome, and not otherwiſe for your ſelves, or your Garri<g ref="char:EOLhyphen"/>ſon: And to the Contents of it in that ſenſe I can only ſay, That ſuch a Treaty, and for ſuch a Peace is not the proper work of my ſelf, or the Army, but theirs that have mployed us. But if the Engliſh be to make way for Conditions to your Garriſon, I ſhall (without the trouble of a Treaty) let you know what your ſelves, and thoſe under you may expect from me (which for the reſtoring of quiet to this County, and the Kingdom without more bloud-ſhed) and for the ſaving of ſo eminent a Towne from the chance of War, I ſhall offer) <hi>viZ.</hi> That if your ſelves, and the reſt with you in <hi>Colcheſter,</hi> ſhall within 24 houres after notice hereof lay down Armes, the com<g ref="char:EOLhyphen"/>mon Soldiers, and men of that rank, ſhall have liberty to depart to their ſeverall Homes, and there quietly to re<g ref="char:EOLhyphen"/>maine,
+<pb n="3" facs="tcp:171075:3"/>ſubmitting to the Authority of Parliament, (and this I ſhall make good however to ſo many of that ſort reſpectively as ſhall accept thereof, and do accordingly) your ſelves and the Officers and Gentlemen engaged with you in the Towne ſhall have liberty and Paſſes to go beyond Sea with equipage befitting their qualities (engaging themſelves not to returne into this Kingdome without leave from the Parliament.) And all of both ſorts with the Inhabitants of the Towne ſhall be free from plunder or violence of the Soldiery (their Armes, Ammunition, and furniture of warre within the Towne, and alſo their Horſes, imployed in military ſervice (ex<g ref="char:EOLhyphen"/>cept ſuch Horſes and Swords as ſhall be thought fit to be allowed to Captains or ſuperiour Officers and Gentle<g ref="char:EOLhyphen"/>men of quality for their removall) being firſt delivered up without imbeazlement in an orderly manner as ſhall be further ſet down, and the Forces under my command, or ſuch as I ſhall appoint, being admitted a peaceable en<g ref="char:EOLhyphen"/>trance into the Towne. I deſire the Committee of Par<g ref="char:EOLhyphen"/>liament now in your hands (who by their ſubſcriptions to part of the Paper, and by your ſending of it as from them, or at their requeſt, are concern'd to know what my Anſwer is) may be acquainted herewith, and indeed if it be concealed from any that are concern'd in it, The blame thereof from God and man is like to fall on their Heads, who ſhall be the Authours of ſuch concealment.</p>
+            <closer>
+               <dateline>
+                  <date>20. of <hi>Iune,</hi> 1648.</date>
+               </dateline>
+               <signed>Your ſervant <hi>FAIRFAX.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="4" facs="tcp:171075:4"/>
+            <head>To the Lord <hi>FAIRFAX,</hi> theſe.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>WE have received yours of the 20. which takes notice of the Paper of the 19. ſubſcri<g ref="char:EOLhyphen"/>bed by the Committee, and of our permiſ<g ref="char:EOLhyphen"/>ſion to have it delivered to you. You have very juſtly ap<g ref="char:EOLhyphen"/>prehended our intentions to be the publique peace of the Kingdome, And we again own that ſenſe, and no other, as befitting the duty of Engliſh-men. And we do believe if both Armies were accorded in ſuch an endeavour it were the moſt pious, eaſie and honourable action where<g ref="char:EOLhyphen"/>in they could be ingaged. But why you have taken oc<g ref="char:EOLhyphen"/>caſion by that act of ours to offer Conditions in particu<g ref="char:EOLhyphen"/>lar to us, we underſtand not, nor can it be ſuppoſed with<g ref="char:EOLhyphen"/>out ſtraining, and offering violence to our manner of proceedings. Thoſe Conditions you proffer to the Offi<g ref="char:EOLhyphen"/>cers and Souldiers on our part, we do hereby make offer of to the Officers and Souldiers on your part. We ſhall in this occaſion deal frankly and plainly; we doe not without evident reaſon conceive our ſelves to be in a con<g ref="char:EOLhyphen"/>dition able to entertain all the force you can make, and thereby to give courage and opportunity to all true<g ref="char:EOLhyphen"/>hearted Engliſh-men to recover their antient and known Lawes; Or if you ſhall adventure to attaque us, we doubt not but by the mercy and aſſiſtance of Almighty God to give you ſuch a repulſe as ſhall give teſtimony of our force and courage, And at how high a rate we
+<pb n="5" facs="tcp:171075:4"/>value the generall peace of the Kingdome. You do with more then uſuall earneſtneſſe deſire that your Anſwer ſhould be communicated to the Committee, and whom elſe it may concern. We apprehend you chiefly intend the Inhabitants of <hi>Colcheſter;</hi> we were very unworthy perſons if any ſhould exceed us in our care for this good Towne, And we doubt not but God will recompence the kindneſſe we have received from them, and that he hath a reward in ſtore for them, ſuitable to the Loyalty and Fidelity they have hitherto manifeſted toward the KING, and known Lawes of the Kingdome. And be<g ref="char:EOLhyphen"/>cauſe you apprehend it ſo important, and neceſſary to divulge the proceedings in this affaire, we will therefore put it into your power; And therefore we deſire your Lordſhip to cauſe the Paper ſigned by the Committee (of the 19.) and our Anſwer ſubſigned, the Anſwer of your Lordſhip to us of the 20. and this our Reply of the 21. to be all printed, and as many of the prints as you ſhall ſend to us, we will diſperſe in <hi>Colcheſter,</hi> and thoſe parts of the Country under our power, and to each per<g ref="char:EOLhyphen"/>ſon of the Committee, one.</p>
+            <closer>
+               <dateline>
+                  <hi>Colcheſter,</hi> 
+                  <date>the 21. of <hi>Iune,</hi> 1648.</date>
+               </dateline>
+               <signed>Your Servants, <hi>NORWICH. ARTHUR CAPEL. CHARLES LUCAS.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
